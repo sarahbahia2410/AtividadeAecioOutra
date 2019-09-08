@@ -1,0 +1,2 @@
+C:\Users\Sarah\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.csprojAssemblyReference.cache
+C:\Users\Sarah\source\repos\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.csproj.CoreCompileInputs.cache
